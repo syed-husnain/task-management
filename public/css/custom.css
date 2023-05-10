@@ -1,0 +1,95 @@
+.required-star {
+    color: #f00;
+}
+.fa.fa-pencil-square-o {
+    font-size: 18px;
+}
+
+.input-group.date .input-group-addon {
+    padding: 0px;
+    border: 0px;
+}
+
+.fa.fa-times,
+.fa.fa-close {
+    font-size: 18px;
+    color: #ff0000;
+}
+
+.fa.fa-check {
+    font-size: 18px;
+    color: #008000;
+}
+
+.fa.fa-trash {
+    font-size: 18px;
+    color: #f00;
+}
+
+.thumbnail-image {
+    max-width: 100px;
+    max-height: 100px;
+}
+
+.thumbnail-image-200 {
+    max-width: 200px;
+    max-height: 200px;
+}
+
+.thumbnail-image-50 {
+    max-width: 50px;
+    max-height: 50px;
+}
+
+.thumbnail-image-100 {
+    max-width: 100px;
+    max-height: 100px;
+}
+
+.banner-thumbnail-image {
+    max-width: 350px;
+    max-height: 200px;
+}
+
+.thumbnail-image-150 {
+    max-width: auto;
+    max-height: 150px;
+}
+
+/* Merchant Detail Page CSS */
+.custom-row .col-md-4 {
+    background-color: #eee;
+    padding: 7px 10px;
+}
+
+.custom-row .col-md-8 {
+    background-color: #fff;
+    border: solid 1px #eee;
+    padding: 6px 10px;
+}
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+input[type="number"] {
+    -moz-appearance: textfield;
+}
+.field-icon {
+  float: right;
+  margin-left: -25px;
+  margin-top: -25px;
+  position: relative;
+  z-index: 2;
+  right: 10px;
+  top: 2px;
+}
+
+.fieldErrorCss{
+    background: #ff000045 !important;
+}
+
+.orderBTNADMIN{
+    margin-bottom: 10px !important;
+}
